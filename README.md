@@ -1,1 +1,1 @@
-Linux intel i386 architecture shellcode repository
+Linux i386 and x64 architecture shellcode repository
