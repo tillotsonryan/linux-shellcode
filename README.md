@@ -1,1 +1,1 @@
-Linux x64 architecture shellcode repository
+Linux amd64 arch shellcode repository
